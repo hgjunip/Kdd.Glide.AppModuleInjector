@@ -1,0 +1,3 @@
+include ':GlideAppModuleInjector'
+include ':app'
+rootProject.name = "Glide AppModule Injector App"

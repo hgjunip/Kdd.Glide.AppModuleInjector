@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <attr path="/api/package[@name='de.kdd.glide.appmoduleinjector']" name="managedName">Kdd.Glide.AppModuleInjector</attr>
+    <remove-node path="/api/package[@name='de.kdd.glide.appmoduleinjector']/class[@name='InetrnalGlideAppModule']" />
+    <remove-node path="/api/package[@name='de.kdd.glide.appmoduleinjector']/class[@name='GlideApp']" />
+    <remove-node path="/api/package[@name='de.kdd.glide.appmoduleinjector']/class[@name='GlideRequest']" />
+    <remove-node path="/api/package[@name='de.kdd.glide.appmoduleinjector']/class[@name='GlideRequests']" />
+    <remove-node path="/api/package[@name='de.kdd.glide.appmoduleinjector']/class[@name='GlideOptions']" />
+    <remove-node path="/api/package[@name='de.kdd.glide.appmoduleinjector']/class[@name='BuildConfig']" />
+</metadata>
