@@ -1,21 +1,14 @@
 ﻿<Properties StartupConfiguration="{27DF2E7F-B61C-43C0-8ADD-C8185B373D35}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Package.nuspec">
     <Files>
-      <File FileName="Kdd.Glide.AppModuleInjector/Transforms/Metadata.xml" Line="10" Column="12" />
-      <File FileName="Kdd.Glide.AppModuleInjector/Kdd.Glide.AppModuleInjector.csproj" />
-      <File FileName="Kdd.Glide.AppModuleInjector/Properties/AssemblyInfo.cs" Line="16" Column="1" />
-      <File FileName="Package.nuspec" Line="1" Column="1" />
+      <File FileName="Package.nuspec" Line="8" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Kdd.Glide.AppModuleInjector" expanded="True">
             <Node name="Package" expanded="True">
-              <Node name="/Users/kostiantyn/git/Kdd.Glide.AppModuleInjector/src/Kdd.Glide.AppModuleInjector/Package.nuspec" selected="True" />
-            </Node>
-            <Node name="Kdd.Glide.AppModuleInjector" expanded="True">
-              <Node name="Properties" expanded="True" />
-              <Node name="Transforms" expanded="True" />
+              <Node name="/Users/kostiantyn/Downloads/Kdd.Glide.AppModuleInjector/src/Kdd.Glide.AppModuleInjector/Package.nuspec" selected="True" />
             </Node>
           </Node>
         </State>
