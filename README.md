@@ -1,4 +1,4 @@
-# Kdd.Glide.AppModuleInjector
+# Xamarin Android - Glide untrusted certificate implementation (AppModuleInjector, UnsafeUrlLoadingAppGlideModule)
 
 This is a solution to let Xamarin Android Glide to work with Untrusted certificates.
 
