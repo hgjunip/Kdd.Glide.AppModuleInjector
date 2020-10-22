@@ -60,7 +60,7 @@ namespace Kdd.Glide.UnsafeUrlLoadingAppGlideModule.GlideX.Http
 
         public void Cancel()
         {
-            // TODO: call cancel on the client when this method is called on a background thread
+            // NOTE Ignored
         }
 
         public void Cleanup()
