@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kdd.Glide.AppModuleInjector", "Kdd.Glide.AppModuleInjector\Kdd.Glide.AppModuleInjector.csproj", "{27DF2E7F-B61C-43C0-8ADD-C8185B373D35}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Package", "Package", "{845FB2DD-1F5A-4FB8-A07C-85EF7B12C636}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nuget", "Nuget", "{845FB2DD-1F5A-4FB8-A07C-85EF7B12C636}"
 	ProjectSection(SolutionItems) = preProject
 		Kdd.Glide.AppModuleInjector.Package.nuspec = Kdd.Glide.AppModuleInjector.Package.nuspec
 		Kdd.Glide.UnsafeUrlLoadingAppGlideModule.nuspec = Kdd.Glide.UnsafeUrlLoadingAppGlideModule.nuspec
